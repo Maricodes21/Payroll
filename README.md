@@ -1,7 +1,9 @@
 Description 
+
 This is a payroll system for urban-Furn, this program calculates the pay for employees based on heir hours worked and determines their deductions if they opted in for retirement.
 
-Features 
+Features
+
 A user can select one of 3 shift types each shift has its hourly rate
 
 It calculates regular pay and the users' overtime if they work more than 40 hours 
